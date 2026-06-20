@@ -123,7 +123,7 @@ I enjoy transforming **real-world problems into efficient digital solutions**, f
 
 ## 🤝 Let’s Connect  
 
-📫 **Email:** *(Add your professional email here)*  
+📫 **Email:** *vikas.careerone@gmail.com*  
 💼 **LinkedIn:** *(Add your LinkedIn profile link)*  
 🌐 **Portfolio:** *(Optional)*  
 
