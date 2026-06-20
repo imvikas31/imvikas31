@@ -107,8 +107,7 @@ I enjoy transforming **real-world problems into efficient digital solutions**, f
 
 🏅 Solved **DSA problems across multiple topics** (Trees, Graphs, DP, Sorting)  
 🏅 Built **real-world production-oriented projects**  
-🏅 Strong interview preparation in **DBMS, OS, CN, OOPs**  
-🏅 Experience with **on-campus & off-campus hiring processes**
+🏅 Strong interview preparation in **DBMS, OS, CN, OOPs** 
 
 ---
 
@@ -124,8 +123,8 @@ I enjoy transforming **real-world problems into efficient digital solutions**, f
 ## 🤝 Let’s Connect  
 
 📫 **Email:** *vikas.careerone@gmail.com*  
-💼 **LinkedIn:** *(Add your LinkedIn profile link)*  
-🌐 **Portfolio:** *(Optional)*  
+💼 **LinkedIn:** *https://www.linkedin.com/in/imvikas28/*  
+🌐 **Portfolio:** *https://github.com/imvikas31*  
 
 <p align="left">
   <a href="https://github.com/imvikas31">
