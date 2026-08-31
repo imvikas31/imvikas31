@@ -1,96 +1,208 @@
 <!-- ========================= -->
+
 <!--      PROFILE README       -->
+
 <!-- ========================= -->
 
-<h1 align="center">Hi 👋, I'm Vikas Singh</h1>
-<h3 align="center">Full Stack Developer | MERN | Problem Solver | Tech Explorer</h3>
+<h1 align="center">Hi, I'm Vikas Singh</h1>
+
+<h3 align="center">
+Full Stack Developer | MERN | Problem Solver | DSA Learner
+</h3>
 
 <p align="center">
   <a href="https://github.com/imvikas31">
-    <img src="https://komarev.com/ghpvc/?username=imvikas31&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=imvikas31&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
   <a href="https://github.com/imvikas31?tab=followers">
-    <img src="https://img.shields.io/github/followers/imvikas31?label=Followers&style=social" />
+    <img src="https://img.shields.io/github/followers/imvikas31?label=Followers&style=social" alt="GitHub Followers" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me  
+## About Me
 
-🎓 **Computer Science Engineering Student (Batch 2026)**  
-💻 **Full Stack Developer (MERN)** with a strong foundation in **Data Structures & Algorithms**  
-⚡ Passionate about building **scalable, secure, and production-ready applications**  
-🧠 Strong believer in **clean code, system thinking, and continuous learning**
+Computer Science Engineering student with a focus on **Full Stack Development, Data Structures & Algorithms, and backend engineering**.
 
-I enjoy transforming **real-world problems into efficient digital solutions**, focusing on **performance, security, and user experience**.
+I enjoy building real-world applications and solving problems by focusing on:
 
----
+* Clean and maintainable code
+* Problem-solving and algorithmic thinking
+* API design and backend development
+* Performance and scalability
+* Security and authentication
+* Continuous learning and improvement
 
-## 🛠️ Tech Stack  
-
-### 👨‍💻 Languages
-- **C++**, **JavaScript**, **TypeScript**
-- SQL, JSON
-
-### 🌐 Frontend
-- React.js, Redux Toolkit, Context API  
-- Tailwind CSS, Bootstrap, Material UI  
-- Responsive & Accessible UI Design
-
-### 🔧 Backend
-- Node.js, Express.js  
-- RESTful APIs, MVC Architecture  
-- JWT Authentication, Role-Based Access Control (RBAC)
-
-### 🗄️ Databases
-- MongoDB (Indexes, Aggregation, Optimization)  
-- MySQL / PostgreSQL  
-
-### ⚙️ DevOps & Tools
-- Git & GitHub (CI-friendly workflows)  
-- Vercel, Render  
-- Postman, Docker (Basics)  
-- VS Code, Linux
+Currently, I am systematically strengthening my DSA fundamentals through problem solving, revision, and documentation.
 
 ---
 
-## 🧠 Core Competencies  
+## Tech Stack
 
-✔️ Advanced **DSA & Problem Solving**  
-✔️ Clean Architecture & Design Patterns  
-✔️ API Security & Performance Optimization  
-✔️ Scalable Full-Stack Application Development  
-✔️ Team Collaboration & Code Reviews  
+### Languages
+
+* C++
+* JavaScript
+* TypeScript
+* SQL
+
+### Frontend
+
+* React.js
+* Redux Toolkit
+* Context API
+* Tailwind CSS
+* Bootstrap
+* Material UI
+
+### Backend
+
+* Node.js
+* Express.js
+* REST APIs
+* MVC Architecture
+* JWT Authentication
+* Role-Based Access Control
+
+### Databases
+
+* MongoDB
+* MySQL
+* PostgreSQL
+
+### Tools & DevOps
+
+* Git
+* GitHub
+* Docker
+* Postman
+* Vercel
+* Render
+* VS Code
+* Linux
 
 ---
 
-## 📌 Featured Projects  
+## Data Structures & Algorithms
 
-### 🔹 AI-Powered Personal Finance Tracker  
-**Tech:** MERN, JWT, Google Gemini API  
-- Automatic transaction categorization using AI  
-- Secure authentication & authorization  
-- Optimized MongoDB queries for large datasets  
-- Deployed with production-grade configuration  
+I am building my DSA skills through a structured, pattern-based learning approach.
 
-### 🔹 E-Commerce Shopping Cart System  
-**Tech:** React, Node.js, MongoDB  
-- Cart persistence with authentication  
-- Real-time price calculations  
-- REST-based backend with validation  
+### Current Areas
 
-### 🔹 Habit Tracker & Productivity Dashboard  
-**Tech:** React, Charts, Backend APIs  
-- Daily, weekly & monthly analytics  
-- Visual dashboards for habit insights  
-- User-specific data persistence  
+* Arrays
+* Strings
+* Linked Lists
+* Stack & Queue
+* Recursion
+* Trees
+* Graphs
+* Binary Search
+* Greedy Algorithms
+* Dynamic Programming
 
-➡️ *More projects available in my repositories section.*
+### My DSA Learning Process
+
+```text
+Understand Problem
+       ↓
+Independent Attempt
+       ↓
+Brute Force
+       ↓
+Optimization
+       ↓
+Identify Pattern
+       ↓
+Implementation
+       ↓
+Dry Run
+       ↓
+Document Mistakes
+       ↓
+Revision
+```
+
+### DSA Journey
+
+I maintain my solutions, explanations, mistakes, and learning progress in a dedicated repository.
+
+**[View my DSA Journey](https://github.com/imvikas31/DSA)**
 
 ---
 
-## 📊 GitHub Analytics  
+## Featured Projects
+
+### AI-Powered Personal Finance Tracker
+
+**Tech:** MERN, JWT, Google Gemini API
+
+* Automatic transaction categorization using AI
+* Secure authentication and authorization
+* User-specific financial data management
+* MongoDB query optimization
+* Production-oriented configuration and deployment
+
+### E-Commerce Shopping Cart System
+
+**Tech:** React, Node.js, MongoDB
+
+* Persistent shopping cart
+* Authentication-based user data
+* Dynamic price calculations
+* REST API based backend
+* Input validation and error handling
+
+### Habit Tracker & Productivity Dashboard
+
+**Tech:** React, Charts, Backend APIs
+
+* Daily, weekly, and monthly habit analytics
+* Interactive productivity dashboard
+* User-specific data persistence
+* Visual representation of progress
+
+More projects are available in my repositories.
+
+---
+
+## Core Areas
+
+* Full Stack Web Development
+* Data Structures & Algorithms
+* Backend Development
+* REST API Design
+* Database Design
+* Authentication & Authorization
+* Performance Optimization
+* Problem Solving
+
+---
+
+## Currently Working On
+
+* Advanced MERN Stack Projects
+* DSA and problem-solving
+* System Design fundamentals
+* Backend optimization and scalability
+* GATE CSE preparation
+
+---
+
+## Computer Science Fundamentals
+
+Alongside development and DSA, I am strengthening my fundamentals in:
+
+* Object-Oriented Programming
+* Database Management Systems
+* Operating Systems
+* Computer Networks
+* Software Engineering
+* System Design
+
+---
+
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imvikas31&show_icons=true&theme=tokyonight" width="48%" />
@@ -103,41 +215,28 @@ I enjoy transforming **real-world problems into efficient digital solutions**, f
 
 ---
 
-## 🏆 Achievements & Highlights  
+## Learning Philosophy
 
-🏅 Solved **DSA problems across multiple topics** (Trees, Graphs, DP, Sorting)  
-🏅 Built **real-world production-oriented projects**  
-🏅 Strong interview preparation in **DBMS, OS, CN, OOPs** 
+> Build. Solve. Understand. Document. Revise. Repeat.
 
----
-
-## 🎯 What I’m Currently Working On  
-
-- 🔭 Advanced MERN Stack Projects  
-- 📚 System Design Basics  
-- 🧩 Competitive Programming & Interview DSA  
-- ⚙️ Backend Optimization & Scalability  
+I believe that solving a problem once is not enough. The goal is to understand the underlying pattern, learn from mistakes, and be able to apply the concept to a new problem.
 
 ---
 
-## 🤝 Let’s Connect  
-
-📫 **Email:** *vikas.careerone@gmail.com*  
-💼 **LinkedIn:** *https://www.linkedin.com/in/imvikas28/*  
-🌐 **Portfolio:** *https://github.com/imvikas31*  
+## Connect With Me
 
 <p align="left">
   <a href="https://github.com/imvikas31">
-    <img src="https://img.shields.io/badge/GitHub-imvikas31-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-imvikas31-black?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/imvikas28/">
+    <img src="https://img.shields.io/badge/LinkedIn-Vikas%20Singh-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
 
----
-
-## 💡 Quote I Live By  
-
-> *“Code is not just written to work, it’s written to last.”*
+Email: [vikas.careerone@gmail.com](mailto:vikas.careerone@gmail.com)
 
 ---
 
-⭐ **If you like my work, consider giving a star to my repositories!**
+⭐ Explore my repositories to see my projects, DSA practice, and ongoing learning journey.
